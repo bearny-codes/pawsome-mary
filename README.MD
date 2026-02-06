@@ -94,4 +94,4 @@ In this file you can define your Applicaiton Logo
 Leave an issue describing the problem as detailed as possible at https://github.com/bearny-codes/pawsome-mary/issues and we try to look into it as quickly as possible.
 
 ## Can I support you?
-We are not a huge software studio with big budgets but (currently) just a single developer passionate about technology, AI and Laravel. If you like the work and want to help him stay awake at night to work on more, [buy him a coffee](buymeacoffee.com/bearny.codes) or give us a star on Github.
+We are not a huge software studio with big budgets but (currently) just a single developer passionate about technology, AI and Laravel. If you like the work and want to help him stay awake at night to work on more, [buy him a coffee](https://buymeacoffee.com/bearny.codes) or give us a star on Github.
